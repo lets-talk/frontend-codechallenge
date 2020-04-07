@@ -4,7 +4,7 @@ This is a simple challenge where you can show all your skills. There are no rule
 
 We also want to understand how talented are you figuring out the best possible solutions for a single problem.
 
-## Schedule challenge
+## Schedule challenge
 
 Index.html is a simple calendar structure (like Google Calendar) with no events rendered.
 
@@ -23,3 +23,7 @@ An expected output can be found in /img/expected.png.
 
 ## Tips
 The key is not on the CSS. Each event can be an absolute positioned div.
+
+## Aknowledgement
+Big thanks to our friend Daniel Guajardo for sharing this challenge.
+
