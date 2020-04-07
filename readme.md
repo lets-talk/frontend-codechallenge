@@ -21,13 +21,5 @@ An expected output can be found in /img/expected.png.
 
 - You can upload the index.html to any server: apache, python or even install and use webpack dev server
 
-## How to run tests
-
-From the project folder run `npm run test`
-
-You can see in the console the test results and also the test coverage.
-You can also see an html version of the coverage in the coverage folder: coverage/lcov-report/index.html
-
 ## Tips
 The key is not on the CSS. Each event can be an absolute positioned div.
-
